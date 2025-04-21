@@ -51,6 +51,14 @@ Pivoting, or "slapdown", intakes offer fast deployment and fine control of intak
     
     [:octicons-arrow-right-24: 2910's IR @ Home Pneumatic Intake](2910_2021_intake.md)
 
+-   <center>[![](../../../img/mechanism-examples/intake/slapdown/9442_2025_intake.webp){width=100%}](1678_2024_intake.md)</center>
+
+    ---
+
+    A motor driven slapdown intake with a sector gear pivot for intaking Reefscape Algae balls.
+    
+    [:octicons-arrow-right-24: 9442's Reefscape Algae Intake](9442_2025_intake.md)
+
 </div>
 
 <br>
