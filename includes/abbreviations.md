@@ -119,3 +119,7 @@
 *[parametric]:  Designed in a way that uses relationships between steps to maintain design intent
 
 *[Parametric]:  Designed in a way that uses relationships between steps to maintain design intent
+
+*[SRPP]: Self-reinforced polypropylene
+
+*[srpp]: Self-reinforced polypropylene
