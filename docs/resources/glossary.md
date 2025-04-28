@@ -154,4 +154,7 @@ We know it can be hard learning each and every term thrown around in FRC design,
 `SRPP`
 :   Acronym for self-reinforced polypropylene.
 
+`Coaxial`
+: A rotary mechanism that has power transmission for another mechanism powered through the same axis as the rotation.
+
 <br>

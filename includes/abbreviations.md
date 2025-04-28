@@ -123,3 +123,11 @@
 *[SRPP]: Self-reinforced polypropylene
 
 *[srpp]: Self-reinforced polypropylene
+
+*[Coaxial]: A rotary mechanism that has power transmission for another mechanism powered through the same axis as the rotation.
+
+*[Coax]: A rotary mechanism that has power transmission for another mechanism powered through the same axis as the rotation.
+
+*[coaxial]: A rotary mechanism that has power transmission for another mechanism powered through the same axis as the rotation.
+
+*[coax]: A rotary mechanism that has power transmission for another mechanism powered through the same axis as the rotation.
