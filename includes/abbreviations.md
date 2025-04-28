@@ -106,6 +106,10 @@
 
 *[Softstop]:  A software-based limit or control mechanism that restricts the movement of a mechanism or component to prevent it from exceeding certain parameters.
 
+*[hardstops]: A physical limit designed to prevent a mechanism or component from moving beyond a certain point.
+
+*[Hardstops]: A physical limit designed to prevent a mechanism or component from moving beyond a certain point.
+
 *[DP]: Diametral pitch is the number of teeth per inch of the pitch circle.
 
 *[packaging]:  The way in which you fit parts of your robot together in a space
